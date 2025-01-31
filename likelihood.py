@@ -11,7 +11,7 @@ import argparse
 import torch
 
 from tokenizers import Tokenizer
-from models.progen.modeling_progen import ProGenForCausalLM
+from progen.modeling_progen import ProGenForCausalLM
 
 
 
